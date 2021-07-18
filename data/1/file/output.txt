@@ -1,0 +1,77 @@
+..............FF.....FFF..FF...FF...
+======================================================================
+FAIL: test15 (__main__.Test)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "test.py", line 105, in test15
+    self.assertGreaterEqual(program.cmmdc(a, b), 0)
+AssertionError: -4 not greater than or equal to 0
+
+======================================================================
+FAIL: test16 (__main__.Test)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "test.py", line 112, in test16
+    self.assertGreaterEqual(program.cmmdc(a, b), 0)
+AssertionError: -1 not greater than or equal to 0
+
+======================================================================
+FAIL: test22 (__main__.Test)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "test.py", line 146, in test22
+    self.assertEqual(program.cmmdc(a, b), c)
+AssertionError: -5 != 5
+
+======================================================================
+FAIL: test23 (__main__.Test)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "test.py", line 151, in test23
+    self.assertEqual(program.cmmdc(a, b), c)
+AssertionError: -3 != 3
+
+======================================================================
+FAIL: test24 (__main__.Test)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "test.py", line 156, in test24
+    self.assertEqual(program.cmmdc(a, b), c)
+AssertionError: -1 != 1
+
+======================================================================
+FAIL: test27 (__main__.Test)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "test.py", line 173, in test27
+    self.assertEqual(program.cmmdc(a, b), c)
+AssertionError: -5 != 5
+
+======================================================================
+FAIL: test28 (__main__.Test)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "test.py", line 178, in test28
+    self.assertEqual(program.cmmdc(a, b), c)
+AssertionError: -6 != 6
+
+======================================================================
+FAIL: test32 (__main__.Test)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "test.py", line 200, in test32
+    self.assertEqual(program.cmmdc(a, b), c)
+AssertionError: -5 != 5
+
+======================================================================
+FAIL: test33 (__main__.Test)
+----------------------------------------------------------------------
+Traceback (most recent call last):
+  File "test.py", line 205, in test33
+    self.assertEqual(program.cmmdc(a, b), c)
+AssertionError: -6 != 6
+
+----------------------------------------------------------------------
+Ran 36 tests in 0.010s
+
+FAILED (failures=9)

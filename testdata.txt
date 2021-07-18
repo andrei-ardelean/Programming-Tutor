@@ -1,0 +1,66 @@
+1. cmmdc
+
+def cmmdc(a, b):
+    a = abs(a)
+    #b = abs(b)
+    while b != 0:
+        r = a % b
+        a = b
+        b = r
+    return a
+
+def cmmdc(a, b):
+    # scrie rezolvarea aici
+
+    return
+
+
+2. concat
+
+def concat(x, y):
+    z = []
+    while x != [] and y != []:
+        if x[0] < y[0]:
+            z.append(x[0])
+            x = x[1:]
+        else:
+            z.append(y[0])
+            y = y[1:]
+    if len(x) == 0:
+        #z += y
+        z.append(y)
+    if len(y) == 0:
+        z += x
+    return z
+
+def concat(x, y):
+    # scrie rezolvarea aici
+
+    return
+
+
+3. sumaCifrelor
+
+def sumaCifrelor(a):
+    sum = 0
+    while a > 0:
+        sum = sum + a % 11
+        a = a // 10
+    return sum
+
+def sumaCifrelor(a):
+    # scrie rezolvarea aici
+
+    return
+
+
+4. demo
+
+def suma(a, b):
+    c = a + b
+    return c
+
+def suma(a, b):
+    # scrie rezolvarea aici
+
+    return

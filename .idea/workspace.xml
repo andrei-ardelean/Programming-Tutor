@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df2608e7-263d-4761-8de0-45b5aa6a0c59" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Unit Test" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1rO9DckMS6M7aQWq8Nj6PFpQ58Z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\anul3facultate\semestrul_II\licenta\PyQt5_projects\MyFeedbackGeneratorTool\data\demo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\anul3facultate\semestrul_II\licenta\PyQt5_projects\MyFeedbackGeneratorTool\data\3" />
+      <recent name="E:\anul3facultate\semestrul_II\licenta\PyQt5_projects\MyFeedbackGeneratorTool\data\2" />
+      <recent name="E:\anul3facultate\semestrul_II\licenta\PyQt5_projects\MyFeedbackGeneratorTool\data\1" />
+      <recent name="E:\anul3facultate\semestrul_II\licenta\PyQt5_projects\MyFeedbackGeneratorTool\data\demo" />
+      <recent name="E:\anul3facultate\semestrul_II\licenta\PyQt5_projects\MyFeedbackGeneratorTool\data\3\file" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="implementation (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProgrammingTutor" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data/1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data/1/implementation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="implementation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProgrammingTutor" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="E:\anul3facultate\semestrul_II\licenta\PyQt5_projects\MyFeedbackGeneratorTool\data\demo\implementation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProgrammingTutor" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MyFeedbackGeneratorTool" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="E:\anul3facultate\semestrul_II\licenta\PyQt5_projects\MyFeedbackGeneratorTool\main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="script (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProgrammingTutor" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data/3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data/3/script.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="view" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="ProgrammingTutor" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="E:\anul3facultate\semestrul_II\licenta\PyQt5_projects\ProgrammingTutor\view.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.view" />
+        <item itemvalue="Python.implementation (1)" />
+        <item itemvalue="Python.implementation" />
+        <item itemvalue="Python.script (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df2608e7-263d-4761-8de0-45b5aa6a0c59" name="Default Changelist" comment="" />
+      <created>1618836150243</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618836150243</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="106" width="814" height="728" key="#Intentions" timestamp="1620131779632">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="361" y="106" width="814" height="728" key="#Intentions/0.30.1536.834/-1440.95.1440.870@0.30.1536.834" timestamp="1620131779632" />
+    <state x="529" y="250" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1621864098143">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="529" y="250" key="#com.intellij.fileTypes.FileTypeChooser/0.30.1536.834/-1440.95.1440.870@0.30.1536.834" timestamp="1620731346251" />
+    <state x="529" y="250" key="#com.intellij.fileTypes.FileTypeChooser/0.30.1536.834@0.30.1536.834" timestamp="1621864098143" />
+    <state x="499" y="194" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1621355978438">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="499" y="194" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.30.1536.834/-1440.95.1440.870@0.30.1536.834" timestamp="1621355978438" />
+    <state x="496" y="74" key="#script_(1)" timestamp="1620131039890">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="496" y="74" key="#script_(1)/0.30.1536.834/-1440.95.1440.870@0.30.1536.834" timestamp="1620131039890" />
+    <state x="549" y="202" key="FileChooserDialogImpl" timestamp="1619090467638">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="549" y="202" key="FileChooserDialogImpl/0.30.1536.834/-1440.95.1440.870@0.30.1536.834" timestamp="1619090467638" />
+    <state width="1537" height="261" key="GridCell.Tab.0.bottom" timestamp="1625122191194">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="1537" height="168" key="GridCell.Tab.0.bottom/0.30.1536.834/-1440.95.1152.690@0.30.1536.834" timestamp="1621943531628" />
+    <state width="1441" height="261" key="GridCell.Tab.0.bottom/0.30.1536.834/-1440.95.1440.870@-1440.95.1440.870" timestamp="1623151900738" />
+    <state width="1537" height="261" key="GridCell.Tab.0.bottom/0.30.1536.834/-1440.95.1440.870@0.30.1536.834" timestamp="1624989179387" />
+    <state width="1537" height="261" key="GridCell.Tab.0.bottom/0.30.1536.834@0.30.1536.834" timestamp="1625122191194" />
+    <state width="1537" height="261" key="GridCell.Tab.0.center" timestamp="1625122191194">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="1537" height="168" key="GridCell.Tab.0.center/0.30.1536.834/-1440.95.1152.690@0.30.1536.834" timestamp="1621943531628" />
+    <state width="1441" height="261" key="GridCell.Tab.0.center/0.30.1536.834/-1440.95.1440.870@-1440.95.1440.870" timestamp="1623151900738" />
+    <state width="1537" height="261" key="GridCell.Tab.0.center/0.30.1536.834/-1440.95.1440.870@0.30.1536.834" timestamp="1624989179387" />
+    <state width="1537" height="261" key="GridCell.Tab.0.center/0.30.1536.834@0.30.1536.834" timestamp="1625122191194" />
+    <state width="1537" height="261" key="GridCell.Tab.0.left" timestamp="1625122191193">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="1537" height="168" key="GridCell.Tab.0.left/0.30.1536.834/-1440.95.1152.690@0.30.1536.834" timestamp="1621943531628" />
+    <state width="1441" height="261" key="GridCell.Tab.0.left/0.30.1536.834/-1440.95.1440.870@-1440.95.1440.870" timestamp="1623151900737" />
+    <state width="1537" height="261" key="GridCell.Tab.0.left/0.30.1536.834/-1440.95.1440.870@0.30.1536.834" timestamp="1624989179386" />
+    <state width="1537" height="261" key="GridCell.Tab.0.left/0.30.1536.834@0.30.1536.834" timestamp="1625122191193" />
+    <state width="1537" height="261" key="GridCell.Tab.0.right" timestamp="1625122191194">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="1537" height="168" key="GridCell.Tab.0.right/0.30.1536.834/-1440.95.1152.690@0.30.1536.834" timestamp="1621943531628" />
+    <state width="1441" height="261" key="GridCell.Tab.0.right/0.30.1536.834/-1440.95.1440.870@-1440.95.1440.870" timestamp="1623151900738" />
+    <state width="1537" height="261" key="GridCell.Tab.0.right/0.30.1536.834/-1440.95.1440.870@0.30.1536.834" timestamp="1624989179387" />
+    <state width="1537" height="261" key="GridCell.Tab.0.right/0.30.1536.834@0.30.1536.834" timestamp="1625122191194" />
+    <state width="1537" height="294" key="GridCell.Tab.1.bottom" timestamp="1623283271986">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="1537" height="294" key="GridCell.Tab.1.bottom/0.30.1536.834/-1440.95.1440.870@0.30.1536.834" timestamp="1623283271986" />
+    <state width="1537" height="294" key="GridCell.Tab.1.center" timestamp="1623283271986">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="1537" height="294" key="GridCell.Tab.1.center/0.30.1536.834/-1440.95.1440.870@0.30.1536.834" timestamp="1623283271986" />
+    <state width="1537" height="294" key="GridCell.Tab.1.left" timestamp="1623283271985">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="1537" height="294" key="GridCell.Tab.1.left/0.30.1536.834/-1440.95.1440.870@0.30.1536.834" timestamp="1623283271985" />
+    <state width="1537" height="294" key="GridCell.Tab.1.right" timestamp="1623283271986">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state width="1537" height="294" key="GridCell.Tab.1.right/0.30.1536.834/-1440.95.1440.870@0.30.1536.834" timestamp="1623283271986" />
+    <state x="277" y="90" key="SettingsEditor" timestamp="1621520591035">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="277" y="90" key="SettingsEditor/0.30.1536.834/-1440.95.1440.870@0.30.1536.834" timestamp="1621520591035" />
+    <state x="277" y="90" key="SettingsEditor/0.30.1536.834@0.30.1536.834" timestamp="1620137392957" />
+    <state x="465" y="271" key="com.intellij.ide.util.TipDialog" timestamp="1625036118478">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="465" y="271" key="com.intellij.ide.util.TipDialog/0.30.1536.834/-1440.95.1440.870@0.30.1536.834" timestamp="1624960710527" />
+    <state x="465" y="271" key="com.intellij.ide.util.TipDialog/0.30.1536.834@0.30.1536.834" timestamp="1625036118478" />
+    <state x="470" y="45" width="738" height="804" key="find.popup" timestamp="1622807677412">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="470" y="45" width="595" height="804" key="find.popup/0.30.1536.834/-1440.95.1440.870@0.30.1536.834" timestamp="1621271894752" />
+    <state x="470" y="45" width="738" height="804" key="find.popup/0.30.1536.834@0.30.1536.834" timestamp="1622807677412" />
+    <state x="431" y="186" width="672" height="678" key="search.everywhere.popup" timestamp="1621859988549">
+      <screen x="0" y="30" width="1536" height="834" />
+    </state>
+    <state x="431" y="186" width="672" height="678" key="search.everywhere.popup/0.30.1536.834/-1440.95.1440.870@0.30.1536.834" timestamp="1620936183417" />
+    <state x="431" y="186" width="672" height="678" key="search.everywhere.popup/0.30.1536.834@0.30.1536.834" timestamp="1621859988549" />
+  </component>
+</project>
